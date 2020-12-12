@@ -1,0 +1,11 @@
+discord.py==1.3.4
+psutil
+requests
+gitpython
+pymongo
+dnspython
+circleci
+python-dotenv
+fake-useragent
+beautifulsoup4
+aiohttp
